@@ -91,6 +91,28 @@ div{
 #two-col section:last-child{
   margin-left:2%
 }
+#carousel_text{
+	letter-spacing: 2px;
+	line-height: 38px;
+    height: 250px;
+    width: 91%;
+    padding: 0 auto;
+    padding: 0px auto;
+    margin: 0 auto;
+    line-height: 38px;
+}
+#carousel_text .carousel-item{
+    padding: 80px 65px 0 65px;
+	text-align: center;
+	font-size: 21px
+}
+#text a{
+	font-size: 24px
+}
+#text a:hover{
+	text-decoration: none;
+	color:white
+}
 
 /*footer*/
 #footer{
